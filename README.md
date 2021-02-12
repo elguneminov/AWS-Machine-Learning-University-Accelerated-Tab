@@ -3,11 +3,6 @@
 
 This repository contains __slides__, __notebooks__, and __datasets__ for the __Machine Learning University (MLU) Accelerated Tabular Data__ class. Our mission is to make Machine Learning accessible to everyone. We have courses available across many topics of machine learning and believe knowledge of ML can be a key enabler for success. This class is designed to help you get started with tabular data (spreadsheet-like tables), learn about widely used Machine Learning techniques for tabular data, and apply them to real-world problems.
 
-## YouTube
-Watch all Tabular Data class video recordings in this [YouTube playlist](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2) from our [YouTube channel](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists).
-
-[![Playlist](https://img.youtube.com/vi/kj-sPC6pai4/0.jpg)](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuVQZCYf_ZnMoIWLLKGx9Mi2)
-
 ## Course Overview
 There are three lectures and one final project for this class.
 | Lecture 1 | Lecture 2 | Lecture 3 |
